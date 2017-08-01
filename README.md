@@ -1,2 +1,2 @@
-# machine_learning_util
+# Machine Learning Util
 Common functions used in my machine learning projects
